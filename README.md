@@ -1,5 +1,5 @@
 # InfiniteMatrixStarter
-**University of Illinois Urbana-Champaign, CS 415: Game Development, Course Project**
+**University of Illinois Urbana-Champaign, CS 498: Game Development, Course Project**
 
 
 
